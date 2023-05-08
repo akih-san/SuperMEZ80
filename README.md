@@ -14,8 +14,7 @@ SuperMEZ80上でのGAME80の使い勝手と、仕様に違いが出ていまし�
 しました。使い勝手と、仕様が同じになります。<br>
 GAME80ICとは、インタープリタとコンパイラを一つにまとめ、コンパイラの起動に未使用の<br>
 変数を割り当てたものです。詳細は、<br>
-https://github.com/akih-san/GAME-and-VTL-for-CP-M
-をご覧ください。<br>
+https://github.com/akih-san/GAME-and-VTL-for-CP-Mをご覧ください。<br>
 <br>
 GAME80ICを起動すると、<br>
 <br>
@@ -59,8 +58,8 @@ https://user-images.githubusercontent.com/112370246/213708107-5d3125b2-3d94-4d20
 <br>
 １．プログラムロードバージョン（メモリの空き容量重視のプログラム）<br>
 <br>
-モニタープログラムのみＰＩＣに書き込まれています。起動時に、メモリの後方（Ｄ０００Ｈ）に<br>
-モニターは転送され、40番地からフリーエリアとなります。<br>
+モニタープログラムのみＰＩＣに書き込まれています。起動時に、メモリの後方（Ｄ０００Ｈ）にモニターは転送され、<br>
+40番地からフリーエリアとなります。<br>
 <br>
 （一般的には100Hからなんでしょうけど、割り込み無いので、40Hからフリーとした）<br>
 <br>
@@ -94,7 +93,7 @@ PICのファームウェアソースは、emuz80_z80ram_all.cです。<br>
 <br>
 （メモリマップ）<br>
 <br>
-[SuperMEZ80メモリマップ.pdf](https://github.com/akih-san/SuperMEZ80/blob/main/SuperMEZ80%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%9E%E3%83%83%E3%83%97.pdf)<br>
+[SuperMEZ80メモリマップ.pdf]()<br>
 <br>
 <br>
 （サンプルプログラム）<br>
@@ -105,6 +104,9 @@ PICのファームウェアソースは、emuz80_z80ram_all.cです。<br>
 <br>
 ・GAME80用のライフゲーム<br>
 ・GAME80用のオセロゲーム<br>
+<br>
+・STATRE.VTL<br>
+      VTLZ80について.txtを参照してください。<br>
 <br>
 <br>
 （モニターのプログラムソース）<br>
