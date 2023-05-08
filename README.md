@@ -93,7 +93,7 @@ PICのファームウェアソースは、emuz80_z80ram_all.cです。<br>
 <br>
 （メモリマップ）<br>
 <br>
-[SuperMEZ80メモリマップ.pdf]()<br>
+[SuperMEZ80メモリマップ.pdf](https://github.com/akih-san/SuperMEZ80/blob/main/SuperMEZ80%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%9E%E3%83%83%E3%83%97.pdf)<br>
 <br>
 <br>
 （サンプルプログラム）<br>
