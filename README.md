@@ -14,7 +14,8 @@ SuperMEZ80上でのGAME80の使い勝手と、仕様に違いが出ていまし�
 しました。使い勝手と、仕様が同じになります。<br>
 GAME80ICとは、インタープリタとコンパイラを一つにまとめ、コンパイラの起動に未使用の<br>
 変数を割り当てたものです。詳細は、<br>
-https://github.com/akih-san/GAME-and-VTL-for-CP-Mをご覧ください。<br>
+https://github.com/akih-san/GAME-and-VTL-for-CP-M
+をご覧ください。<br>
 <br>
 GAME80ICを起動すると、<br>
 <br>
