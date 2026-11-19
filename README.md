@@ -13,8 +13,8 @@ SuperMEZ80上でのGAME80の使い勝手と、仕様に違いが出ていまし�
 今回、CP/M-80 Ver2.2用のGAME80IC Ver.03をEMUZ80、SuperMEZ80で動かすように<br>
 しました。使い勝手と、仕様が同じになります。<br>
 GAME80ICとは、インタープリタとコンパイラを一つにまとめ、コンパイラの起動に未使用の<br>
-変数を割り当てたものです。詳細は、<br>
-https://github.com/akih-san/GAME-and-VTL-for-CP-M　をご覧ください。<br>
+変数を割り当てたものです。詳細は、以下をご覧ください<br>
+https://github.com/akih-san/GAME-and-VTL-for-CP-M
 <br>
 GAME80ICを起動すると、<br>
 <br>
